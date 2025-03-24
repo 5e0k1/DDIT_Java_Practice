@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book issn="1000">
+		<name>도서1</name>
+		<writer>작가</writer>
+		<pub>출판사</pub>
+	</book>
+	<book issn="1001">
+		<name>도서2</name>
+		<writer>작가2</writer>
+		<pub>출판사2</pub>
+	</book>
+</books>
